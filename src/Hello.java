@@ -11,7 +11,9 @@ public class Hello {
 
 	public void methodA( ) { }
 
-	public void methodB() { }
+	public void methodB() { 
+	    System.out.print("asd");
+	}
 
 	public void methodC() { }
 }
