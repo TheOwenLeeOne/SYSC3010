@@ -17,5 +17,7 @@ public class Hello {
 		System.out.println("asd");
 	}
 
-	public void methodC() { }
+	public void methodC() { 
+		System.out.println("qweq");
+	}
 }
