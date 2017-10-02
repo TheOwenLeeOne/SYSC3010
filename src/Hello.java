@@ -19,5 +19,6 @@ public class Hello {
 
 	public void methodC() { 
 		System.out.println("qweq");
+		System.out.println("eq");
 	}
 }
