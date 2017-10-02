@@ -17,8 +17,13 @@ public class Hello {
 		System.out.println("asd");
 	}
 
-	public void methodC() { 
+	public void methodC() {
+		System.out.println("changes to create conflict");
 		System.out.println("qweq");
+
 		System.out.println("eq");
+
+		System.out.println("more changes");
+
 	}
 }
