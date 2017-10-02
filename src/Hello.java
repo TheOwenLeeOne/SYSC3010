@@ -9,7 +9,9 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA( ) { }
+	public void methodA( ) { 
+		System.out.println("method A changed by Owen");
+	}
 
 	public void methodB() { }
 
