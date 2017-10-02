@@ -19,5 +19,6 @@ public class Hello {
 
 	public void methodC() {
 		System.out.println("changes to create conflict");
+		System.out.println("qweq");
 	}
 }
